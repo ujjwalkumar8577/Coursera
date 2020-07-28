@@ -23,6 +23,7 @@ p {
 
 /* Simple Responsive Framework. */
 .row {
+  margin: 10px;
   border: 1px solid black;
   background-color: grey;
   width: 100%;
